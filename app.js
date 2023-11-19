@@ -75,6 +75,7 @@ reset.addEventListener("click", () => {
     salise.textContent = "00"
     sayac = 0
     sayac2 = 0
+    times = []
     document.getElementById("derece-body").textContent=""
 
 })
